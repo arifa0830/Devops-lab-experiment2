@@ -8,3 +8,4 @@ In this experiment, we learn how Git works by performing the following tasks:
 5. Creating and switching branches.
 6. Merging branches.
 7. Pushing code to GitHub.
+Line added in experiment2-update branch
